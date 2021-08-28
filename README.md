@@ -1,5 +1,7 @@
 # BlockDescription
-이진 검색 프로그램 
+이진 검색 프로그램    
+데이터 구조   
+언어: C
 #
 int binarysearch - 이진탐색을 하는 함수    
 void list_init(); - 초기화 하는 함수   
